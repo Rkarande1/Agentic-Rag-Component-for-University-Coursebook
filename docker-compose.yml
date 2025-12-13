@@ -1,0 +1,20 @@
+version: '3.8'
+
+services:
+  rag-app:
+    build: .
+    image: rag-system
+    container_name: rag-container
+    volumes:
+      # Mount the 'data' directory to persist the ChromaDB database
+      # Format: local_path:container_path
+      - ./data:/app/data
+    environment:
+      # Point to the host's Ollama instance. 
+      # 'host.docker.internal' works on Docker Desktop (Windows/Mac).
+      # For Linux, you might need '--add-host=host.docker.internal:host-gateway'
+      - OLLAMA_HOST=http://host.docker.internal:11434
+    # 'stdin_open' and 'tty' correspond to 'docker run -it'
+    # This allows you to interact with the Python input() prompt.
+    stdin_open: true
+    tty: true

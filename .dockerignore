@@ -1,0 +1,6 @@
+Rag/
+data/
+__pycache__/
+*.pyc
+.git/
+.vscode/

@@ -1,0 +1,92 @@
+[
+  {
+    "type": "Elective Module",
+    "source_file": "Electives Overview",
+    "module_name": "Selected Topics of Augmented & Virtual Reality",
+    "availability": "Winter",
+    "language": "German",
+    "ects": "5",
+    "professor": "Prof. Gerald Pirkl"
+  },
+  {
+    "type": "Elective Module",
+    "source_file": "Electives Overview",
+    "module_name": "Selected Topics of Artificial Intelligence",
+    "availability": "Winter",
+    "language": "German / English",
+    "ects": "5",
+    "professor": "Prof. Tatyana Ivanovska / Prof. Dominikus Heckmann"
+  },
+  {
+    "type": "Elective Module",
+    "source_file": "Electives Overview",
+    "module_name": "Embedded Intelligence",
+    "availability": "Summer",
+    "language": "German / English",
+    "ects": "5",
+    "professor": "Prof. Gerald Pirkl"
+  },
+  {
+    "type": "Elective Module",
+    "source_file": "Electives Overview",
+    "module_name": "AI Privacy & Security",
+    "availability": "Summer",
+    "language": "English",
+    "ects": "5",
+    "professor": "Prof. Patrick Levi"
+  },
+  {
+    "type": "Elective Module",
+    "source_file": "Electives Overview",
+    "module_name": "Energy Management with AI Methods",
+    "availability": "Winter",
+    "language": "English",
+    "ects": "5",
+    "professor": "Prof. Raphael Lechner"
+  },
+  {
+    "type": "Elective Module",
+    "source_file": "Electives Overview",
+    "module_name": "Symbolic AI & Rule Based Agents",
+    "availability": "Summer",
+    "language": "English",
+    "ects": "5",
+    "professor": "Prof. Tatyana Ivanovska"
+  },
+  {
+    "type": "Elective Module",
+    "source_file": "Electives Overview",
+    "module_name": "AI for Humanities",
+    "availability": "Winter",
+    "language": "German / English",
+    "ects": "5",
+    "professor": "Prof. Dominikus Heckmann"
+  },
+  {
+    "type": "Elective Module",
+    "source_file": "Electives Overview",
+    "module_name": "Applied Semantic Web",
+    "availability": "Winter",
+    "language": "German / English",
+    "ects": "5",
+    "professor": "Prof. Dominikus Heckmann"
+  },
+  {
+    "type": "Elective Module",
+    "source_file": "Electives Overview",
+    "module_name": "Advanced Deep Learning",
+    "availability": "Summer",
+    "language": "German / English",
+    "ects": "5",
+    "professor": "Prof. Christian Bergler"
+  },
+  {
+    "type": "Elective Module",
+    "source_file": "Electives Overview",
+    "module_name": "Deep Reinforcement Learning",
+    "availability": "Winter",
+    "language": "German",
+    "ects": "5",
+    "professor": "Prof. Thomas Nierhoff"
+  }
+]

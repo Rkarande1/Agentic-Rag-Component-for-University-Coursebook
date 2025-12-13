@@ -1,0 +1,162 @@
+[
+  {
+    "type": "Master Module",
+    "source_file": "Master Course Catalogue",
+    "module_id": "DPLE",
+    "module_name": "Deep Learning",
+    "credits": 5,
+    "semester": "Summer",
+    "Module Convenor  Professor / Lecturer": " Prof. Dr. Christian Bergler Prof. Dr. Christian Bergler",
+    "Prerequistes": " advanced competences in computer science and mathematics Note: please also observe the preperquisites according to eximinations regulations law in the current version of the SPO. ",
+    "Usability  Teaching Methods  Workload": " Master study programmes with focus on AI Seminars with exercises Contact time: 60h Self study: 90h neu",
+    "learning_outcomes": "Lernziele / Qualifikationen des Moduls After completing this module successfully, students will have the following professional, methodological and personal competences: Professional competence: Students learn and understand the functionality and basics of neural networks and deep learning - methods. Methodological competence: Students can implement chosen deep learning methods based on given and existing software - libraries, apply them to given data sets and select and optimize the appropriate functions and parameters. Personal competence (social competence and self-competence): Students can solve complex problems in the field of deep learning on their own, while also learning from the views and approaches of others to further deepen their understanding. Overall, it helps students to learn not only how to self-organize, but also how to manage their time and exchange ideas with other colleagues, which contributes to their personal, professional, and social growth",
+    "course_content": "Inhalte der Lehrveranstaltungen Mathematical and algorithmic foundations for deep learning - Introduction to neural networks and deep learning: model function, cost and activation functions, vectorization - Model training: Gradient-based methods, forward- and backward- propagation - Model training: Parameter initialization, variants of the gradient-based methods, batch normalization, hyperparameter tuning, - regularization techniques Convolutional Neural Networks -",
+    "assessment": {
+      "details": "written exam Written exam, 90 min. Understand the basics of deep learning methods, analyze given problems and show possible solutions be able to show solutions, apply basic methods/functions"
+    }
+  },
+  {
+    "type": "Master Module",
+    "source_file": "Master Course Catalogue",
+    "module_id": "CVAE",
+    "module_name": "Computer Vision and AI",
+    "credits": 5,
+    "semester": "Summer",
+    "Module Convenor  Professor / Lecturer": " Prof. Dr. Tatyana Ivanovska Prof. Dr. Tatyana Ivanovska",
+    "Prerequistes": " advanced competences in computer science and mathematics Note: please also observe the preperquisites according to eximinations regulations law in the current version of the SPO. ",
+    "Usability  Teaching Methods  Workload": " Master study programmes with focus on AI Seminars with exercises Contact time: 60 h Self study: 60 h Project work: 30 h ",
+    "learning_outcomes": "Lernziele / Qualifikationen des Moduls After completing this module successfully, students will have the following professional, methodological and personal competences: Professional competence: The students know and understand how artificial neural networks work. They are familiar with - different architectures (e.g. CNNs, RNNs) and their suitability for problems of image recognition and understanding. Methodological competence: Students will be able to select suitable deep learning methods and architectures for given - application scenarios from the field of computer vision and implement them on the basis of software libraries. They are familiar with techniques and methods of feature generation from image data as well as model optimization and can apply them practically. Personal competence (social competence and self-competence): Teamwork, professional exchange with team members -",
+    "course_content": "Inhalte der Lehrveranstaltungen Introduction to Computer Vision and Deep Learning - Feature extraction methods for images - Data augmentation for image data - Convolutional Neural Networks (CNN) - Object Recognition with CNN - Image Segmentation with CNN - autoencoders - Recurrent Neural Networks (RNN) -",
+    "assessment": {
+      "details": "PrA project report Design and implementation of a sample application using Deep Learning."
+    }
+  },
+  {
+    "type": "Master Module",
+    "source_file": "Master Course Catalogue",
+    "module_id": "AURE",
+    "module_name": "Autonomous robots",
+    "credits": 5,
+    "semester": "Summer",
+    "Module Convenor  Professor / Lecturer": " Prof. Dr. Thomas Nierhoff Prof. Dr. Thomas Nierhoff",
+    "Prerequistes": " advanced competences in computer science and mathematics Note: please also observe the preperquisites according to eximinations regulations law in the current version of the SPO. ",
+    "Usability  Teaching Methods  Workload": " Master study programmes with focus on AI Seminars with exercises Contact time: 60h Self study: 40h Project work: 50h ",
+    "learning_outcomes": "Lernziele / Qualifikationen des Moduls After completing this module successfully, students will have the following professional, methodological and personal competences: Professional competence: Students know basic procedures in the field of sensor processing, data fusion, localization and - behavior control of autonomous robots. Methodological competence: Upon completion of the module, students will be able to solve a variety of tasks for autonomous - robots using a unified framework. Personal competence (social competence and self-competence): Students can solve complex problems by their own -",
+    "course_content": "Inhalte der Lehrveranstaltungen Structure of autonomous robots - environment perception - sensor data fusion - self-localization - behavior control - Bayesian optimization - Gaussian processes -",
+    "assessment": {
+      "details": "PrA Short presentation and project report (10-15 pages) Design and implementation of a selected application"
+    }
+  },
+  {
+    "type": "Master Module",
+    "source_file": "Master Course Catalogue",
+    "module_id": "MALE",
+    "module_name": "Machine Learning",
+    "credits": 5,
+    "semester": "Winter",
+    "Module Convenor  Professor / Lecturer": " Prof. Dr. Patrick Levi Prof. Dr. Patrick Levi",
+    "Prerequistes": " advanced competences in computer science and mathematics Note: please also observe the preperquisites according to eximinations regulations law in the current version of the SPO. ",
+    "Usability  Teaching Methods  Workload": " Master study programmes with focus on AI Seminars with exercises Contact time: 60h Self study: 30h Project work: 50h ",
+    "learning_outcomes": "Lernziele / Qualifikationen des Moduls After completing this module successfully, students will have the following professional, methodological and personal competences: Professional competence: Students know typical use cases for the application of machine learning in different areas such as - industry, media, marketing, etc. They are familiar with common methods of supervised and unsupervised learning, have a conceptual understanding of how they work, and can evaluate them in terms of their strengths and weaknesses. They are familiar with the challenges associated with their use and know approaches and strategies to address them. Methodological competence: Students will be able to select suitable ML methods for various application scenarios and implement - them programmatically on the basis of software libraries. They are able to evaluate and interpret the results and can assess the methods with regard to their quality and performance. They know different techniques for model optimization and can apply them practically. Personal competence (social competence and self-competence): Working in international teams, scientific and analytical - approach and problem solving as a team member",
+    "course_content": "Inhalte der Lehrveranstaltungen Clarification of terms and applications of Machine Learning - Mathematical basics (e.g. gradient descent methods) - Regression and Classification (Linear Regression, Binary Classification, Multiclass Classification, Goodness Measures for the - Evaluation of regression and classification models, cross validation, hyperparameter optimization, regularization) Basic methods of supervised learning - Basic methods of unsupervised learning - Data Preprocessing - Machine Learning in Python -",
+    "assessment": {
+      "details": "PrA Project report (10-15 pages) Conception and prototypical implementation of a machine learning use case"
+    }
+  },
+  {
+    "type": "Master Module",
+    "source_file": "Master Course Catalogue",
+    "module_id": "MDNE",
+    "module_name": "Modern Databases and NoSQL",
+    "credits": 5,
+    "semester": "Winter",
+    "Module Convenor  Professor / Lecturer": " Prof. Dr. Gerald Pirkl Prof. Dr. Gerald Pirkl",
+    "Prerequistes": " advanced competences in computer science and mathematics Note: please also observe the preperquisites according to eximinations regulations law in the current version of the SPO. ",
+    "Usability  Teaching Methods  Workload": " Master study programmes with focus on AI Seminars with exercises Contact time: 60 h Self study: 90 h  ",
+    "learning_outcomes": "Lernziele / Qualifikationen des Moduls After completing this module successfully, students will have the following professional, methodological and personal competences: Professional competence: The students know the basics of relational database systems and can understand and compare them - with other forms of data organisation. They can name examples of the use of relational database systems and list the possibilities of linking databases to application programs. They know the syntax of a common access language and can apply it. The students learn about distributed data models as well as platforms and frameworks for distributed data, such as NoSQL databases. Methodological competence: Students will be able to independently design, create, and query databases. Students refine their - knowledge of modern databases, including distributed data models. By designing and building complex infrastructures, students deepen their ability to abstract. Students learn a confident approach to modern database applications and infrastructures. Personal competence (social competence and self-competence): Students will be able to model, discuss, and present - modern databases to a larger audience in small groups. Through independent learning, students will acquire time management skills.",
+    "course_content": "Inhalte der Lehrveranstaltungen Database theory and practice: data organisation, types of databases, relational database design, transactions. - Syntax of a database language like SQL - Practical work with a relational database, such as DB setup and DB connection of application programs - Distributed data models and platforms and frameworks for distributed data, such as NoSQL databases -",
+    "assessment": {
+      "details": "PrA project report (10-15 pages) Design and implementation of a selected application"
+    }
+  },
+  {
+    "type": "Master Module",
+    "source_file": "Master Course Catalogue",
+    "module_id": "NLPE",
+    "module_name": "NLP and Information Retrieval",
+    "credits": 5,
+    "semester": "Winter",
+    "Module Convenor  Professor / Lecturer": " Prof. Dr. Patrick Levi Prof. Dr. Patrick Levi",
+    "Prerequistes": " advanced competences in computer science and mathematics Note: please also observe the preperquisites according to eximinations regulations law in the current version of the SPO. ",
+    "Usability  Teaching Methods  Workload": " Master study programmes with focus on AI Seminars with exercises Contact time: 60 h Self study: 90 h ",
+    "learning_outcomes": "Lernziele / Qualifikationen des Moduls After completing this module successfully, students will have the following professional, methodological and personal competences: Professional competence: Students know the modalities of natural language and typical use cases for Natural Language - Processing. Depending on the application scenario, they can select rule-based, statistical and (deep) neural network-based analysis or clustering methods, use them on the basis of common core algorithms and software libraries, and combine them into functional applications. Students are familiar with annotation methods for machine learning and can use them for supervised learning algorithms (incl. Deep Learning), for example for proper name recognition, character recognition or for dependency parsing. Methodological competence: Students will be able to select adequate analysis or generation procedures, create or annotate - linguistic resources (lingware), apply and programmatically combine important algorithms and procedures, and evaluate the performance of NLP procedures and systems. Personal competence (social competence and self-competence): Intercultural exchange on languages, analytical-scientific - approach",
+    "course_content": "Inhalte der Lehrveranstaltungen Modalities of natural language - Levels of language: Phonetics/phonology, morphology, syntax, semantics, pragmatics. - Basic procedures: Tokenization, lemmatization, proper name recognition, chunking, parsing, logical-semantic analysis, generation - Selection from several of the following topics (combinations are possible): Annotation tools, Information Retrieval, Semantic Search, Logic - and Inference, Automatic question answering, Speech recognition, synthesis of spoken language (text-to-speech), Speech dialog systems, Text analysis, document analysis, OCR, Clustering/Classification. Neural networks and deep learning",
+    "assessment": {
+      "details": "PrA project report (10-15 pages) Create or use NLP resources independently and work with software libraries to functional NLP applications."
+    }
+  },
+  {
+    "type": "Master Module",
+    "source_file": "Master Course Catalogue",
+    "module_id": "AIPR",
+    "module_name": "AI project",
+    "credits": 5,
+    "semester": "Summer",
+    "Module Convenor  Professor / Lecturer": " Prof. Dr. Christian Bergler Prof. Dr. Christian Bergler",
+    "Prerequistes": " advanced competences in computer science and mathematics Note: please also observe the preperquisites according to eximinations regulations law in the current version of the SPO. ",
+    "Usability  Teaching Methods  Workload": " Master study programmes with focus on AI Seminars with exercises Contact time: 60 h Project work: 90 h ",
+    "learning_outcomes": "Lernziele / Qualifikationen des Moduls After completing this module successfully, students will have the following professional, methodological and personal competences: Professional competence: The students derive and deepen professional, solid, as well as fundamental skills, with respect to an - individual project-specific topic in the field of artificial intelligence. Methodological competence: Students will learn and derive an overall understanding about the given AI-related project task, - identify and internalize important underlying theoretical concepts, while the level of competence is further intensified through practical programming work. Personal competence (social competence and self-competence): Independent project and task-specific literature research - as well as downstream software implementations and integrations reflect the traditional scientific approach and lead not only to improvements regarding professional attributes, but also personal skills.",
+    "course_content": "Inhalte der Lehrveranstaltungen The contextual parts which are covered in this course, are essentially determined and defined by the individually assigned project topics. In general, a wide range of application-related research questions and challenges are covered, all of them addressing topics in the field of artificial intelligence, such as data-related project tasks (data prepraration/pre-processing/enhancement), next to the design, training and evaluation of domain- and task-specific ML/DL frameworks (computer vision-, acoustic-, and text-based research questions), in addition to software engineering topics with the development of own software, but also adaptions/extensions in terms of already existing software frameworks.",
+    "assessment": {
+      "details": "PrA Presentation in the team (15 minutes), project Realization of an individual domain- and task-specific AIdocumentation (7 pages) project, including a theoretical part (literature review) and practical part (software programming)."
+    }
+  },
+  {
+    "type": "Master Module",
+    "source_file": "Master Course Catalogue",
+    "module_id": "INTP",
+    "module_name": "Interdisciplinary topic",
+    "credits": 5,
+    "semester": "Winter",
+    "Module Convenor  Professor / Lecturer": " Prof. Dr. Michael Wiehl selected lecturers",
+    "Prerequistes": " advanced competences in computer science and mathematics Note: please also observe the preperquisites according to eximinations regulations law in the current version of the SPO. ",
+    "Usability  Teaching Methods  Workload": " Master study programmes with focus on AI Seminars with exercises Contact time: 60h Self study: 90h  ",
+    "learning_outcomes": "Lernziele / Qualifikationen des Moduls After completing this module successfully, students will have the following professional, methodological and personal competences: Professional competence: Leadership, change management, decision making and organisation in teams - Methodological competence: Students are able to apply the methods they have learned in a way that is appropriate to the - situation. Personal competence (social competence and self-competence): Intercultural exchange, communication techniques, - presentation techniques",
+    "course_content": "Inhalte der Lehrveranstaltungen Organisational Development - Leadership and management - change - decision theory - Team -",
+    "assessment": {
+      "details": "Prj Presentation (10 minutes per student) Self- and team organization, presentational skills"
+    }
+  },
+  {
+    "type": "Master Module",
+    "source_file": "Master Course Catalogue",
+    "module_id": "SCWR",
+    "module_name": "Scientific writing",
+    "credits": 2,
+    "semester": "Summer",
+    "Module Convenor  Professor / Lecturer": " Prof. Dr. Michael Wiehl N.N.",
+    "Prerequistes": " completed scientific education (e.g. Bachelor of Science) Note: please also observe the preperquisites according to eximinations regulations law in the current version of the SPO. ",
+    "Usability  Teaching Methods  Workload": " Master study programmes with focus on AI Seminars with exercises Contact time: 30 h Self study: 30 h ",
+    "learning_outcomes": "Lernziele / Qualifikationen des Moduls After completing this module successfully, students will have the following professional, methodological and personal competences: Professional competence: The students are able to work on topics scientifically. This includes the classification of the self- - determined results in the scientific context. If the module accompanies a research activity in industry or university, the research contents and results of the students are the basis of the exercises in this module. Methodological competence: Students will learn proper citation styles, be able to correctly interpret and assess the quality of - professional articles, and present scientific results in a variety of ways. Personal competence (social competence and self-competence): The students are able to independently grasp and work on - larger topics, they are able to structure their results in written form in the master's thesis and to place them there in the scientific context. They also improve their ability to express themselves in written form in English.",
+    "course_content": "Inhalte der Lehrveranstaltungen Scientific methodology - Presentation and evaluation of results - Scientific analysis - Preparation of a written report, poster and presentation -",
+    "assessment": {
+      "details": "Prj Scientific presentation 25 to 35 minutes (50%) and a Quality of slides and presentation quality and style of writing, short written report of 4 to 6 pages (50%) style of citation"
+    }
+  },
+  {
+    "type": "Master Module",
+    "source_file": "Master Course Catalogue",
+    "module_id": "MSCT",
+    "module_name": "Master thesis",
+    "credits": 28,
+    "semester": "Summer",
+    "Module Convenor  Professor / Lecturer": " Prof. Dr. Michael Wiehl selected first and second reviewers",
+    "Prerequistes": " At least 45 ECTS achieved (see examination regulations) Note: please also observe the preperquisites according to eximinations regulations law in the current version of the SPO. ",
+    "Usability  Teaching Methods  Workload": " Master study programmes Planning: 90 h Realization: 450 h Creation of report: 300 h ",
+    "learning_outcomes": "Lernziele / Qualifikationen des Moduls After completing this module successfully, students will have the following professional, methodological and personal competences: Professional competence: familiarization with selected subject area on the basis of scientific reports - Methodological competence: Students are able to work independently on a practice-relevant, definable project in a study - program-related environment in a scientific manner. Students will be able to document the steps in a written document and put their activity into a scientific context. Personal competence (social competence and self-competence): Time management, self-organisation, critical examination - of self-determined results and works (such as software or algorithm), improvement of English writing language",
+    "course_content": "Inhalte der Lehrveranstaltungen Depending on supervisor Topic with AI reference",
+    "assessment": {
+      "details": "Master thesis Master's thesis according to the SPO Independent work, penetration of a new subject area subject area, classification in the scientific context, development context, elaboration or application of subjectspecific methods and approaches"
+    }
+  }
+]

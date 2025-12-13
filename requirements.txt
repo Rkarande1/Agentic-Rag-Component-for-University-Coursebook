@@ -1,0 +1,7 @@
+chromadb
+pdfplumber
+langchain-ollama
+langchain-core
+sentence-transformers
+beautifulsoup4
+requests

@@ -1,0 +1,172 @@
+[
+  {
+    "type": "preliminary_notes",
+    "source_file": "Bridge Course Catalogue",
+    "content": {
+      "General": " Vorbemerkungen  The bridge modules give graduates of a Bachelor's degree programme with less than 210 ECTS (but at least 180 ECTS) the opportunity to acquire the missing ECTS. They are suitable for the following master degree programme: - Artificial Intelligence for Industrial Applications   - Registration formalities: All examinations must be registered with the Students’ Office (through PRIMUSS). Add itional formalities are listed in the module descriptions. - Abbreviations: ECTS = The European Credit Transfer and Accumulation System (ECTS) is a credit point system for accreditation of course achievements. SWS = Semesterwochenstunden = Semester hours per week - Workload: According to the Bologna Process, a credit point is based on a workload of 25-30 hours. The number of hours includes the time spent at the university, the time spent preparing for and following up on courses, the time spent writing papers or preparing for examinations.  Example calculation of workload (course with 4 SWS, 5 ECTS credits): Workload: 5 ECTS x 30 h/ECTS = 150 h - Lecture (4 SWS x 15 weeks) = 60 h - Self study = 60 h - Exam preparation = 30 h ______ = 150 h      created 2th october 2025 4 "
+    }
+  },
+  {
+    "type": "Bridge Module",
+    "source_file": "Bridge Course Catalogue",
+    "module_id": "140P",
+    "module_name": "Industrie 4.0 Project Classification Module ID Kind of Module Number of Credits",
+    "credits": 5,
+    "semester": "Summer",
+    "Module Convenor  Professor / Lecturer": " Prof. Dr. Gerald Pirkl Prof. Dr. Gerald Pirkl",
+    "Prerequistes": " Programming, digital systems, networks, basics of computer science, industrial process communication and industrial  Ethernet, data analytics, industrial human-machine interfaces and augmented reality ",
+    "Usability  Teaching Methods  Workload": " Bridge module for international master study programmes Project work 10h: Project meetings Elective for Bachelor study programmes 140h: Project processing Compulsory module in the Industry 4.0 Informatics including documentation = 150 h ",
+    "learning_outcomes": "Lernziele / Qualifikationen des Moduls After successfully completing the module, students have the following professional, methodological and personal skills: Professional competence: Students create industrial software with regard to reliability, availability and security (functional and cyber security) and can evaluate its elements accordingly. They know how sensor data can be collected, analyzed and applied to problems. Methodological competence: Students can evaluate and assess the project being worked on in terms of reliability, availability and security using appropriate software tools and application lifecycle management tools. They can analyze larger software projects and implement them in test-driven or scrum-based processes. You can apply various known technologies in the project environment. Personal competence (social competence and self-competence): Students can familiarize themselves independently with new subject areas and know how to work on a problem in a team using SCRUM using the subject areas taught in the previous semesters of the Industrie Informatik 4.0 course.",
+    "course_content": "Inhalte der Lehrveranstaltungen Recording, planning and realization of a project on a current topic in the field of Industry 4.0 (e.g. simulation of a factory, communication, human-machine interaction, predictive maintenance, etc.).",
+    "assessment": {
+      "details": "ModA Project work of 150 hours; the objectives and Independent processing of a larger CPS-related content are defined in advance in an exposé and project in a team, analysis, planning, design and agreed with the lecturer. The project phase development of a solution approach for a problem and the results are discussed in a report."
+    }
+  },
+  {
+    "type": "Bridge Module",
+    "source_file": "Bridge Course Catalogue",
+    "module_id": "INT",
+    "module_name": "Classification Module ID Kind of Module Number of Credits",
+    "credits": 5,
+    "semester": "Summer",
+    "Module Convenor  Professor / Lecturer": " Prof. Dr.-Ing. Dominikus Heckmann Prof. Dr.-Ing. Dominikus Heckmann",
+    "Prerequistes": " Note: please also observe the preperquisites according to eximinations regulations law in the current version of the SPO. ",
+    "Usability  Teaching Methods  Workload": " Bridge module for international master study programmes Seminar-based teaching with Contact time/coaching: 60 h Elective for Bachelor study programmes exercises Self-study and project work: 80 h Total workload: 140 h  ",
+    "learning_outcomes": "Lernziele / Qualifikationen des Moduls After successfully completing the module, students have the following professional, methodological and personal skills: Professional competence: Knowledge of the content of the course Methodological competence: Discussion culture, scientific work, presentation skills Personal competence (social competence and self-competence): improved interaction and teamwork skills, and group discussion in English and German, structured work and effective group work. Intercultural experience. Presentation & discussion experience in mixed groups.",
+    "course_content": "Inhalte der Lehrveranstaltungen - International aspects (in general and in particular for technical studies) - Intercultural aspects (in general and in particular for a technical degree program) - Interlingual aspects (in general and in particular for technical studies) - Regional characteristics of the Obepfalz & Bavaria with excursions - Special features of the participating nationalities and native languages - Partner universities, information and potential partners for the internship semester or an optional semester abroad - KI.Meeting meetings, information on study organization - Academic work (reading, writing, research)",
+    "assessment": {
+      "details": "ModA Learning objectives / qualifications of the module, see above"
+    }
+  },
+  {
+    "type": "Bridge Module",
+    "source_file": "Bridge Course Catalogue",
+    "module_id": "ROS",
+    "module_name": "Classification Module ID Kind of Module Number of Credits",
+    "credits": 5,
+    "semester": "Summer",
+    "Module Convenor  Professor / Lecturer": " Prof. Dr. Dominikus Heckmann Prof. Dr. Dominikus Heckmann, Prof. Dr. Michael Wiehl, Prof. Dr. Gerald Pirkl, Prof. Dr. Wenk",
+    "Prerequistes": "",
+    "Usability  Teaching Methods  Workload": " Bridge module for international master study programmes Blended learning, block, Contact time/coaching: 60 h Seminar-based teaching with Self-study and project work: 90 h practical training, partly Total workload: 150 h guided self-study ",
+    "learning_outcomes": "Lernziele / Qualifikationen des Moduls This module is taught in blocks and consists of two parts, a theoretical online-taught first part and a second practical part with project work. After successfully completing the “Artificial Intelligence Robotics Starter course” , students have the following technical, methodological and personal skills: - Professional competence: students gain broad insights into the current topics of robot starter kits, consumer robots, service robots in relation to consumer robots, service robots in relation to artificial intelligence topics, as well as the general basics of robotics. The students have initial knowledge from the field of human-technology interaction and from the field of cyber-physical systems. - Methodological competence: Students have basic knowledge of the development of simple robots, both in a simulation environment and with physical robots. Students can classify robots and categorize human-robot interaction systems. - Personal competence (social competence and self-competence): Students can work in project teams to design individual design and realize simple robot interaction systems in project teams.",
+    "course_content": "Inhalte der Lehrveranstaltungen Information processing & sensors for robotics - Robot hardware & interaction hardware - Consumer Robotics, Service Robotics, Robot Starter Kits - Programming robots, also with graphical development environments -",
+    "assessment": {
+      "details": "ModA Will be announced at the beginning of the semester Robot project: design, realization, programming, presentation and documentation"
+    }
+  },
+  {
+    "type": "Bridge Module",
+    "source_file": "Bridge Course Catalogue",
+    "module_id": "PK1",
+    "module_name": "Classification Module ID Kind of Module Number of Credits",
+    "credits": 5,
+    "semester": "Winter",
+    "Module Convenor  Professor / Lecturer": " Prof. Dr. Thomas Nierhoff Prof. Dr. Thomas Nierhoff",
+    "Prerequistes": "",
+    "Usability  Teaching Methods  Workload": " Bridge module for international master study programmes Seminar-based teaching with Contact time/coaching: 60 h Elective for Bachelor study programmes exercises, practical training Self-study and project work: 90 h Total workload: 150 h ",
+    "learning_outcomes": "Lernziele / Qualifikationen des Moduls After successfully completing the module, students have the following professional, methodological and personal skills. Professional competence: Students know the basics and principles of a higher imperative, functional and object-oriented programming language. They know their syntax and can apply and check it. Methodological competence: Students can work with basic elements such as data types, variables, expressions, data structures, iteration, recursion, function and object orientation to solve and explain simple programming tasks. They can analyze and assess the runtime behavior and correctness of programs or code sequences. Personal competence (social competence and self-competence): Students can analyze and solve programming problems alone and in small teams",
+    "course_content": "Inhalte der Lehrveranstaltungen - Basics of programming - Syntax, data types, variables, expressions, data structures, input/output - Iteration, function, recursion - Structuring and displaying algorithms with structure diagrams and flowcharts - Object orientation, use of software libraries/APIs",
+    "assessment": {
+      "details": "ModA Details: will be announced at the start of the semester Learning objectives / qualifications of the module, see above"
+    }
+  },
+  {
+    "type": "Bridge Module",
+    "source_file": "Bridge Course Catalogue",
+    "module_id": "MSE",
+    "module_name": "Classification Module ID Kind of Module Number of Credits",
+    "credits": 5,
+    "semester": "Summer",
+    "Module Convenor  Professor / Lecturer": " Prof. Dr.-Ing. Michael Wiehl Prof. Dr.-Ing. Michael Wiehl",
+    "Prerequistes": " Programming in Python, mathematics basics Note: please also observe the preperquisites according to eximinations regulations law in the current version of the SPO. ",
+    "Usability  Teaching Methods  Workload": " Bridge module for international master study programmes Seminar with exercises Contact time: 30h Elective for Bachelor study programmes Pre- and post-processing: 60h Exam preparation: 60h ",
+    "learning_outcomes": "Lernziele / Qualifikationen des Moduls After completing this module successfully, students will have the following professional, methodological and personal competences: Professional competence: The students know and understand special aspects, technologies and design process elements for - medical systems. Methodological competence: Students will be able to setup a basic product file with relevant information for medical devices. - They can plan the initial development of a medical system including risk management and design of safe software. Personal competence (social competence and self-competence): Working in international project teams, individual self- - organized preparation of a product file",
+    "course_content": "Inhalte der Lehrveranstaltungen Overview on medical devices and technologies - Regulatory aspects as risk classification, normative environment and obligatory laws - System design, product design, architectures of cyberphysical medical systems - Functional safety and IT security - Developing safe software and usability engineering - Biomedical signal analysis and processing in cyberphysical medical systems - Modelling and simulation of signal acquisition and processing -",
+    "assessment": {
+      "details": "ModA 25% Technical Report about simulated principle Understanding a selected medical product, its system 25% Demo of simulation architecture, the working principle and its classification as 25% Product file with basic elements medical product. 25% Presentation on site"
+    }
+  },
+  {
+    "type": "Bridge Module",
+    "source_file": "Bridge Course Catalogue",
+    "module_id": "IC",
+    "module_name": "Classification Module ID Kind of Module Number of Credits",
+    "credits": 5,
+    "semester": "Winter",
+    "Module Convenor  Professor / Lecturer": " Prof. Dr. Tim Jüntgen Prof. Dr. Jüntgen, Dipl.-Ing. Bianca Seidel (LBA)",
+    "Prerequistes": "",
+    "none": " Note: Please also observe the prerequisites according to examination regulations law in the current version of the SPO ",
+    "Usability  Teaching Methods  Workload": " Bridge module for international master study programmes Seminar-based teaching Contact time/coaching: 60 h Elective for Bachelor study programmes Self-study and project work: 90 h Total workload: 150 h ",
+    "learning_outcomes": "Lernziele / Qualifikationen des Moduls After completing this module successfully, students will have the following professional, methodological and personal competences: The course provides students with no prior knowledge of German with basic competencies and the ability to deal with essential communicative situations of a subject-, profession- and culture-specific nature. - Professional competence: Students understand the principles of the subject of interculturality. They learn the theoretical basics of intercultural communication and understanding. - Methodological competence: Students are able to apply strategies to improve the handling of misunderstandings in professional and private situations. They learn to identify these situations and to appear interculturally competent. - Personal competence (so cial competence and self-competence): Students acquire the interdisciplinary ability to perform in a culturally sensitive manner. Their intercultural competence is enhanced by sharpening their perception of themselves and others. They have expanded their ability to change perspective and are able to communicate with different nationalities.",
+    "course_content": "Inhalte der Lehrveranstaltungen - Regional features - Peculiarities of the participating nationalities - Peculiarities of the European and especially t he German culture (rules, norms, values, symbols, manners, etc.) - Studying and working in Germany The contents of the course can be taught in presence and/or in virtual form.",
+    "assessment": {
+      "details": "Presentation 100% Professional competence, methodological competence, personal competence"
+    }
+  },
+  {
+    "type": "Bridge Module",
+    "source_file": "Bridge Course Catalogue",
+    "module_id": "SWP",
+    "module_name": "Classification Module ID Kind of Module Number of Credits",
+    "credits": 5,
+    "semester": "Winter",
+    "Module Convenor  Professor / Lecturer": " Prof. Dr. Sandra Rebholz Prof. Dr. Sandra Rebholz",
+    "Prerequistes": " Software engineering, project management, databases, programming, user interfaces.  Note: Please also note the requirements according to the examination regulations in the respective valid SPO version. ",
+    "Usability  Teaching Methods  Workload": " Bridge module for international master study programmes. Independent implementation of a Contact time/coaching: 30 h Elective for Bachelor study programmes. smaller software development Self-study and project work: 120 h Compulsory module in the degree programs Industry 4.0 project in a student team. Reflect Total workload: 150 h Informatics, Media Informatics. on your own project-related observations and experiences in personal reflection reports. Advice from supervisors as required.  ",
+    "learning_outcomes": "Lernziele / Qualifikationen des Moduls After successfully completing the module, students have the following professional, methodological and personal skills: Professional competence: Students have expanded and consolidated their own SW development and project experience applied what they have previously learned (see prerequisites) in the overall context of a project and brought it together mentally practiced the procedure according to a (suitably adapted) process. Methodological competence: Students have deepened their methodological knowledge, particularly in the areas of OOA, OOD, testing and project management. Personal competence (social competence and self-competence): Students have experienced work-sharing software development in a team (coordination & communication, planning and distributing tasks, time estimates for tasks, coordinating changes, recognizing and dealing with risks).",
+    "course_content": "Inhalte der Lehrveranstaltungen An assignment for the new or further development of a software product gives participants the opportunity to experience the “real case” of a software development project in a realistic way. All tasks within the project (including project management) are taken on by students. A special element is regular reflection on their own observations and experiences in order to promote learning from both mistakes and successes. Despite the obligation to deliver a usable product, the focus is on independent learning (from mistakes as well as from successes) - the tasks are therefore generally not of a commercial nature.",
+    "assessment": {
+      "details": "ModA Work result of the entire team: 40% See above under “Learning objectives” (personal reflection reports Content of personal reflection reports and and time logs of each participant, work result Time logs: 60% of the entire team)"
+    }
+  },
+  {
+    "type": "Bridge Module",
+    "source_file": "Bridge Course Catalogue",
+    "module_id": "PRS",
+    "module_name": "Classification Module ID Kind of Module Number of Credits",
+    "credits": 5,
+    "semester": "Summer",
+    "Module Convenor  Professor / Lecturer": " Prof. Dr. Sandra Rebholz Prof. Dr. Sandra Rebholz, Prof. Dr. Alexander Prinz, Prof. Dr. Christian Bergler",
+    "Prerequistes": "",
+    "Usability  Teaching Methods  Workload": " Bridge module for international master study programmes Seminar-based teaching with Contact time/coaching: 75 h Elective for Bachelor study programmes exercises Self-study and project work: 75 h Total workload: 150 h ",
+    "learning_outcomes": "Lernziele / Qualifikationen des Moduls After successfully completing the module, students have the following professional, methodological and personal skills: Professional competence: Students know the basics and principles of a programming language such as “Python” or “Processing”. They know their syntax an d can apply it. Students know the basics of the technical language “Programming” in the two target languages German and English. Methodological competence: Students are able to install and set up the Python programming environment independently and master basic concepts such as data types, variables, expressions and data structures, in particular also arrays, iteration, recursion, functions and the basics of object orientation in order to solve simple programming tasks (e.g. data analysis or visual tasks) and to be able to explain them in at least one target language (English/German). Personal competence (social competence and self-competence): Students can analyze and solve programming problems alone and in small international & intercultural teams and solve them. They can support each other in the acquisition of technical vocabulary.",
+    "course_content": "Inhalte der Lehrveranstaltungen 1. basics of programming, iteration, function, arrays, recursion, object orientation 2. programming project (example: data analysis and visualization, creative programming) 3. technical language “Programming” (English & German)",
+    "assessment": {
+      "details": "ModA Weighting: 50% / 50% Learning objectives / qualifications of the module, see above Details: Compulsory exercises, graded project work with presentation"
+    }
+  },
+  {
+    "type": "Bridge Module",
+    "source_file": "Bridge Course Catalogue",
+    "module_id": "SEM2",
+    "module_name": "Business Model Innovation",
+    "credits": 0,
+    "semester": "Winter",
+    "Module": " vhb English One Semester Winter Depending on availability",
+    "Module Convenor  Professor / Lecturer": " Prof. Dr. Julia Heigl Prof. Dr. Julia Heigl",
+    "Prerequisites": "",
+    "None": " Note: Please also note the prerequisites according to the examination regulations in the respective valid SPO version. *",
+    "Usability  Teaching Methods  Workload": " The module is part of the module group Specialization Guided project work Contact time/coaching: 60 h Electives of the Digital Technology and Management Self-study and project work: 90 h Bachelor’s degree program. It is also used as Elective in the Total workload: 150 h DHM, TM and WI programs. ",
+    "learning_outcomes": "After successful completion of the module, students will have acquired the following professional, methodological and personal skills and competencies: Professional Skills: Students analyse current and expected environment, industry, and company specifics, particularly with regard to the effects of - digitization (and other megatrends). Students will analyse customer needs and develop new value propositions. - Students will analyse, develop and evaluate business models, including revenue model and necessary architecture (resources, - activities, partnerships). Methodological Skills: The students apply common methods of business model development, requirements and needs analysis as well as innovation - approaches for the further development of the business model in a concrete (practical) project. They use personas, business model canvas and other templates. Students recognize intercultural and interdisciplinary challenges in teamwork and adapt their working methods accordingly. - The students use digital cooperation and communication tools. - Personal Skills (Social Competence and Self-competence): Students will be able to cooperatively plan and execute a team project on time, working effectively and thoughtfully, especially in a - heterogeneous, interdisciplinary, and international team, and if necessary, leading the team. Students will be able to communicate results effectively and express complex information concisely and comprehensively, both orally - and in writing.",
+    "course_content": "Global megatrends such as digitization have a radical impact on what and how companies create benefits for customers (value proposition innovation), how these benefits are delivered (architectural innovations) and how companies earn money (revenue model innovations). Therefore, existing business models must be deliberately changed in the sense of a business model innovation or others must be created from scratch. In contrast to product or process innovations, business model innovations thus directly address a company's business model. Not only are customer needs better satisfied, but the basic structures and competitive rules of the industry are also called into question. As part of the module, students work on an international project in teams with students from other universities on a current, real-life practical issue in which a new platform business model (virtualtraveller.com) is to be scrutinized and made more attractive for both end users (young travelers) and advertisers (including FinnAir, Samsung, but also small local providers). The task will be worked on in defined sub-steps, supported by teaching units on the following topics: - Working with the Business Model Canvas: analysis, development and evaluation of an own business model. - Impact of digitalization and other megatrends on business models and organizations - Platform business - Basics of the design thinking process - Understanding user groups and their needs, requirements and problems (developing persona) - Working with a 360° camera, shooting your own film - Brainstorming and creativity techniques created 2th october 2025 14 - Evaluating market potential and revenue model - Business models in practice",
+    "assessment": {
+      "details": "Learning be Assessed Project work (written + oral) in groups of approx. 6 students each (2 from The group project is used to test Module work (ModA) Weiden, 4 from Finland and/or Belgium) on a business question presented at the practical learning content the beginning of the semester in several phases, which are presented at the and competence profiles, project kick off and are to be worked on successively. including teamwork and Each student has to contribute individually to the common task. The overall presentation skills. results are to be submitted in the form of a pitch video (English) as well as a written summary (approx. 15 pages per German group of 2, language English or German), weighting 50/50."
+    }
+  },
+  {
+    "type": "Bridge Module",
+    "source_file": "Bridge Course Catalogue",
+    "module_id": "WEB",
+    "module_name": "Classification Module ID Kind of Module Number of Credits",
+    "credits": 5,
+    "semester": "Summer",
+    "Module Convenor  Professor / Lecturer": " Prof. Dr. Thomas Nierhoff Prof. Dr. Dieter Meiller, Prof. Dr.-Ing. Michael Wiehl, Prof. Dr. Thomas Nierhoff",
+    "Prerequistes": " Note: Please also note the requirements according to the examination regulations in the currently valid SPO version. ",
+    "Usability  Teaching Methods  Workload": " Bridge module for international master study programmes Seminar-based teaching with Contact time/coaching: 60 h Elective for Bachelor study programmes exercises Self-study and project work: 90 h Total workload: 150 h ",
+    "learning_outcomes": "Lernziele / Qualifikationen des Moduls After successfully completing the module, students have the following professional, methodological and personal skills: Professional competence: Students have a sound knowledge of HTML, CSS and Javascript. They can code the Document object model of a website and design its appearance responsively for different output devices. They can also program the interactive behavior of the website. Students know the basics of the technical language “web technologies” in the two target languages German and English. Methodological competence: Students have a basic knowledge of how web technologies and the internet work. They can create static web pages using standard web technologies. They can use screen design tools to create web page designs create web page designs that prepare graphics and other audiovisual media for distribution on the web and then integrate them into the created web pages. Personal competence (social competence and self-competence): Students can design and code user-friendly web pages as part of a project team. They can also familiarize themselves with more in-depth areas of web programming. They can support each other in the acquisition of technical vocabulary.",
+    "course_content": "Inhalte der Lehrveranstaltungen Layered architecture of the Internet, HTTP protocol, Document Object Model, acquisition of knowledge in XML and SGML, HTML, CSS, Javascript, ECMAScript, responsive web design, usability and accessibility. Summary, analysis and discussion of current English-language web technology texts.",
+    "assessment": {
+      "details": "ModA Length: 75 minutes Understanding of basic knowledge of web and internet Details: Programming tasks on the PC technologies and coding and the ability to independent coding of web pages and their technical language"
+    }
+  }
+]
