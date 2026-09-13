@@ -1,6 +1,6 @@
 # University RAG System (Master AI for Industrial Applications)
 
-This project is a **Retrieval-Augmented Generation (RAG)** system designed to assist students of the **Master Artificial Intelligence for Industrial Applications** program. It allows users to query information regarding course modules, electives, and examination regulations using natural language.
+This project is one of the component repo used in a larger project for assisting students in **Master Artificial Intelligence for Industrial Applications** program to plan out there semesters, particularly **Retrieval-Augmented Generation (RAG)** system. It allows users to query information regarding course modules, electives, and examination regulations using natural language.
 
 The system indexes extracted data from university PDF documents (Course Catalogue, Study Plans, Regulations) and uses a local Large Language Model (LLM) to provide accurate, context-aware answers.
 
